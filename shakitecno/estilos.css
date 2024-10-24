@@ -1,0 +1,36 @@
+body{
+   background-color: mistyrose; 
+}
+h1{  color: white;
+background-color: black;
+}
+
+div {
+    width: 800px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: black;
+    height: 150px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+nav{
+    border-bottom: 2px solid red;
+}
+
+article{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+footer {
+    color: white;
+    background-color: red;
+    padding: 50px;
+    text-align: center;
+}
